@@ -112,6 +112,7 @@ The two groups are nearly identical across every engagement tier, reinforcing th
 ## 6. Visualizations
 
 
+
 ![Day 1 Retention Rate by Gate](images/day1_retention.png)
 ![Day 7 Retention Rate by Gate](images/day7_retention.png)
 
