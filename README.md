@@ -139,4 +139,4 @@ Each chart shows retention rate by gate with 95% confidence interval error bars 
 
 ---
 
-*Analysis by Paramartha — part of PGDM in Big Data Analytics coursework.*
+*Analysis by Paramartha*
