@@ -111,12 +111,10 @@ The two groups are nearly identical across every engagement tier, reinforcing th
 
 ## 6. Visualizations
 
-*(Insert exported PNGs of the Day 1 and Day 7 retention charts here, e.g.)*
 
-```
 ![Day 1 Retention Rate by Gate](images/day1_retention.png)
 ![Day 7 Retention Rate by Gate](images/day7_retention.png)
-```
+
 
 Each chart shows retention rate by gate with 95% confidence interval error bars — the Day 1 bars visibly overlap (no significant difference), while the Day 7 bars are visibly separated (significant difference), making the core finding readable at a glance.
 
